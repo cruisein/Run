@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="distance">Quãng đường</string>
+    <string name="durations">Thời gian</string>
+    <string name="empty_screen">Bạn chưa có lịch sử chạy nào. Hãy hoàn thành một bài tập nhé.</string>
+    <string name="english">English</string>
+    <string name="good_afternoon">Buổi tối tốt lành</string>
+    <string name="good_evening">Ngày mới tốt lành</string>
+    <string name="good_morning">Ngày mới tốt lành</string>
+    <string name="history">Lịch sử</string>
+    <string name="home">Trang chủ</string>
+    <string name="hours_ran">Số giờ đã chạy</string>
+    <string name="kilometers">%1$s kilometers</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="minutes">%1$s phút</string>
+    <string name="pick_a_duration">Chọn một mốc thời gian</string>
+    <string name="reset">Làm lại</string>
+    <string name="sessions_done">Sessions done</string>
+    <string name="start">Bắt đầu</string>
+    <string name="stop">Dừng lại</string>
+    <string name="today_quote">Trích dẫn của ngày</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="add">Thêm</string>
+    <string name="cancel">Hủy</string>
+</resources>
